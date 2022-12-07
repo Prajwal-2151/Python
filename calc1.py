@@ -7,4 +7,4 @@ print("Subtraction of", a, "and", b, "is", sub)
 mul = a * b
 print("Multiplication of", a, "and", b, "is", mul)
 div = a / b
-print( a, "and", b, "is", div)
+print("Division of", a, "and", b, "is", div)
